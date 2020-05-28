@@ -1,1 +1,1 @@
-# gait-detection
+# pose estimation
